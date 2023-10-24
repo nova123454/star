@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/star/static/css/main.e395e29a.css",
-    "main.js": "/star/static/js/main.18328faf.js",
-    "static/js/787.c55daa49.chunk.js": "/star/static/js/787.c55daa49.chunk.js",
-    "static/media/slider2.jpg": "/star/static/media/slider2.b171c9208546043710e7.jpg",
-    "static/media/slider3.png": "/star/static/media/slider3.b391ff494f0a2ac8f273.png",
-    "static/media/slider.jpg": "/star/static/media/slider.dfabb0c0b1f264ee49a9.jpg",
-    "index.html": "/star/index.html",
-    "main.e395e29a.css.map": "/star/static/css/main.e395e29a.css.map",
-    "main.18328faf.js.map": "/star/static/js/main.18328faf.js.map",
-    "787.c55daa49.chunk.js.map": "/star/static/js/787.c55daa49.chunk.js.map"
+    "main.css": "/static/css/main.ad82b234.css",
+    "main.js": "/static/js/main.b4b014e7.js",
+    "static/js/787.c55daa49.chunk.js": "/static/js/787.c55daa49.chunk.js",
+    "static/media/카드1.jpg": "/static/media/카드1.77925e14696b887bff2f.jpg",
+    "static/media/쿠키1.jpg": "/static/media/쿠키1.41eb734d492989f6f1b6.jpg",
+    "static/media/상품1.jpg": "/static/media/상품1.6934f24991b6252755ab.jpg",
+    "static/media/menuu.jpg": "/static/media/menuu.5184e17261a7d43649eb.jpg",
+    "static/media/음료1.jpg": "/static/media/음료1.8fd79adae4db1e2d1352.jpg",
+    "index.html": "/index.html",
+    "main.ad82b234.css.map": "/static/css/main.ad82b234.css.map",
+    "main.b4b014e7.js.map": "/static/js/main.b4b014e7.js.map",
+    "787.c55daa49.chunk.js.map": "/static/js/787.c55daa49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e395e29a.css",
-    "static/js/main.18328faf.js"
+    "static/css/main.ad82b234.css",
+    "static/js/main.b4b014e7.js"
   ]
 }
