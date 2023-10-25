@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/star/static/css/main.099fa195.css",
-    "main.js": "/star/static/js/main.0167fb58.js",
+    "main.js": "/star/static/js/main.388c84de.js",
     "static/js/787.c55daa49.chunk.js": "/star/static/js/787.c55daa49.chunk.js",
     "static/media/카드1.jpg": "/star/static/media/카드1.77925e14696b887bff2f.jpg",
     "static/media/쿠키1.jpg": "/star/static/media/쿠키1.41eb734d492989f6f1b6.jpg",
@@ -10,11 +10,11 @@
     "static/media/음료1.jpg": "/star/static/media/음료1.8fd79adae4db1e2d1352.jpg",
     "index.html": "/star/index.html",
     "main.099fa195.css.map": "/star/static/css/main.099fa195.css.map",
-    "main.0167fb58.js.map": "/star/static/js/main.0167fb58.js.map",
+    "main.388c84de.js.map": "/star/static/js/main.388c84de.js.map",
     "787.c55daa49.chunk.js.map": "/star/static/js/787.c55daa49.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.099fa195.css",
-    "static/js/main.0167fb58.js"
+    "static/js/main.388c84de.js"
   ]
 }
